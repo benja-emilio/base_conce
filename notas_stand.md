@@ -10,14 +10,6 @@
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
