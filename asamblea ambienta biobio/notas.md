@@ -28,8 +28,6 @@
 |3318|0|0|
 
 ---
-
----
 ### Describir:
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
