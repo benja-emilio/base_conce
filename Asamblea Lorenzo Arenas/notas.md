@@ -103,8 +103,9 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
-
+|![imagen](120221970_779059499526025_8647307993520754981_n.jpg) | ![linkear imagen](117180407_764927194270095_8815805648099439878_n.jpg) |
+|![imagen2](120202894_135036628304985_7202486773232507497_n.jpg)||
+|![imagen3](120198925_334208531162883_2349960860507359864_n.jpg)||
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
@@ -112,10 +113,11 @@ Actividades:
 | Declaraciones | infografía | 
 |---|---|
 |![imagen](119083347_3672046279480396_4015838553684450595_n.jpg) | ![imagen2](118887409_696619517731157_5518604074881702270_n.jpg) |
-|![imagen3](119239003_1394074747450133_8901249572529766376_n.jpg) | |
+|![imagen3](119239003_1394074747450133_8901249572529766376_n.jpg) ||
 |![imagen4](119042400_313960239705084_2708536556719337406_n.jpg)||
 |![imagen5](119048970_2455701378063606_7321125457291350746_n.jpg)||
-|![iamgen6](119104214_1492335944310728_7232739133944918723_n.jpg)| |
+|![imagen6](119104214_1492335944310728_7232739133944918723_n.jpg)||
+|![imagen7](117228386_2572755636316400_7637435085142851897_n.jpg)||
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
 
