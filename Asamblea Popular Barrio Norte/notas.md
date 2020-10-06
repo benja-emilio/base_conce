@@ -17,26 +17,26 @@
 
 | seguidores | seguidos | hashtag |
 |---|---|---|
-|0|0|0|
+|1962|770|0|
 
 **Facebook**
 
-| seguidores | seguidos | hashtag |
+| seguidores | Me gusta| hashtag |
 |---|---|---|
-|0|0|0|
+|1058|949|0|
 
 ---
 ### Describir:
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* **Actividad:**   
+* **Actividad:** continua desde Octubre de 2019.   
 
 * Primera Publicación IG 23 de Oct 2019 
 
 #### Cantidad de publicaciones
 | Instagram | Facebook | otro |
 |---|---|---|
-|0|0|0|
+|198|0|0|
 
 ---
 ### Frecuencia de publicación.
