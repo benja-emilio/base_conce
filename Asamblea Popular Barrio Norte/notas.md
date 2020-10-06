@@ -1,39 +1,42 @@
-# [Asamblea Popular Barrio Norte](https://www.instagram.com/asambleapopularbarrionorte/)
+# Asamblea Popular Barrio Norte
+
+[instagram](https://www.instagram.com/asambleapopularbarrionorte/)
+[facebook](https://www.facebook.com/Asamblea-Popular-Barrio-Norte-104038587705845/)
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+**Instagram**
 
-**Nombran:**  
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|0|0|0|
 
-**Comparten:**
+**Facebook**
 
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|0|0|0|
 
 ---
 ### Describir:
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
+* **Actividad:**   
+
 * Primera Publicación IG 23 de Oct 2019 
+
+#### Cantidad de publicaciones
+| Instagram | Facebook | otro |
+|---|---|---|
+|0|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -63,6 +66,11 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 * Anticapitalista 
 * Antipatriarcal 
+* Multiculturalidad
+
+![imagen](74902090_145201460125966_1995999905347187170_n.jpg)
+![imagen](74538729_444898832817091_5699386129956751928_n.jpg)
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -104,11 +112,30 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 **Iconos:**
 
+![imagen](80051550_2525809374374415_8458694723561242406_n.jpg)
+![imagen2](89290365_2281998552093686_479036287485254355_n.jpg)
+
 **Banderas:**
 
 **Diseño estético:**
 
 > 
 
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen](106912607_158064952558837_8256995668882382384_n.jpg) |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
+|![]() | |
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
