@@ -1,46 +1,43 @@
-# [Asamblea de Mujeres Talcahuano Tralka Wenu](https://www.instagram.com/asambleamujeresthno/)
+# Asamblea de Mujeres Talcahuano Tralka Wenu
+
+[instagram](https://www.instagram.com/asambleamujeresthno/)
+[facebook](https://www.facebook.com/asambleamujeresdethno/)
+[twitter]()
+<asambleamujeresthno@gmail.com>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+**Instagram**
 
-**Nombran:**  
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|1356|603|0|
 
-**Comparten:**
+**Facebook**
 
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|511|0|0|
 
 ---
 ### Describir:
+
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
-* Primera Publicación IG 15 Dic 2019 (video)
+* **Actividad:** continua desde Diciembre del 2019    
 
----
-### Frecuencia de publicación.
+* Primera Publicación IG 15 de Dic 2019 
 
-Publicaciones:
-
-Actividades:
+#### Cantidad de publicaciones
+| Instagram | Facebook | otro |
+|---|---|---|
+|86|0|0|
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -55,6 +52,14 @@ Actividades:
 
 * Anticapitalista 
 * Antipatriarcal 
+![iamgen](89318131_638878043322553_6685060037677824374_n.jpg)
+![imagen2](89600716_789946311748811_3956996993995734362_n.jpg)
+![imagen3](89435454_695614254332436_5563109842883393847_n.jpg)
+![imagen4](89416773_790378434705342_9116442764975111374_n.jpg)
+![imagen5](89696524_277614399888280_5835598020595439539_n.jpg)
+![imagen6](89342621_194004638554449_6076365028808597171_n.jpg)
+![imagen7](89419967_2490408954553908_9028314476724416585_n.jpg)
+![imagen8](89941002_596087501248867_760216643127561362_n.jpg)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contrainformacion, emplazamiento a autoridades etc.)
@@ -86,11 +91,30 @@ Actividades:
 
 **Iconos:**
 
+![imagen](99424794_249464639496137_1981788666120951767_n.jpg)
+![imagen2](89117986_2773040022732205_8706905659309350725_n.jpg)
+
+
 **Banderas:**
 
 **Diseño estético:**
 
 > 
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen]() |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
