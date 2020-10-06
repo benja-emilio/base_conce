@@ -1,38 +1,35 @@
-# [Asamblea Provincial de Concepción](https://www.instagram.com/p/B4q9Z3ahMj1/)
+# Asamblea Provincial de Concepción
+
+[instagram](https://www.instagram.com/asambleaprovincial/)
+[facebook]()
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+**Instagram**
 
-**Nombran:**  
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|0|0|0|
 
-**Comparten:**
+**Facebook**
 
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|0|0|0|
 
 ---
 ### Describir:
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad continua desde noviembre del 2019
+* **Actividad:** continua desde noviembre del 2019
 * Primera Publicación IG
 
 ---
@@ -57,6 +54,16 @@ Actividades: Mensual
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+![imagen](pliego1.jpg)
+![imagen2](pliego2.jpg)
+![imagen3](pliego3.jpg)
+![imagen4](pliego4.jpg)
+![imagen5](pliego5.jpg)
+![imagen6](pliego6.jpg)
+![imagen7](pliego7.jpg)
+![imagen8](pliego8.jpg)
+![imagen9](pliego9.jpg)
+![imagen10](pliego10.jpg)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -90,6 +97,9 @@ Actividades: Mensual
 * Estrella de 5 punto roja
 * Cacerola
 
+![imagen](98164283_1156853774657021_3104278595968391525_n.jpg)
+![imagen2](74607436_2624948354229656_6154249013128501554_n.jpg)
+
 **Banderas:**
 
 * Chilena
@@ -101,4 +111,41 @@ Actividades: Mensual
 > El diseño estético de las publicaciones y afiches tiene cierta continuidad a lo largo del tiempo. Sin embargo, las que salen de esta linea son principalmente publicaciones de otras organizaciones sociales.
 
 ---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen]() |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
+
+---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+![imagen](boletin1.jpg)
+![imagen](boletin1_2.jpg)
+![imagen](boletin1_3.jpg)
+![imagen](boletin1_4.jpg)
+![imagen](boletin1_5.jpg)
+![imagen](boletin1_7.jpg)
+![imagen](boletin2.jpg)
+![imagen](boletin2_1.jpg)
+![imagen](boletin2_2.jpg)
+![imagen](boletin2_3.jpg)
+![imagen](boletin2_4.jpg)
+![imagen](boletin2_5.jpg)
+![imagen](boletin3.jpg)
+![imagen](boletin3_1.jpg)
+![imagen](boletin3_2.jpg)
+![imagen](boletin3_3.jpg)
+![imagen](boletin3_4.jpg)
+![imagen](boletin3_5.jpg)
+![imagen](boletin3_6.jpg)
+![imagen](boletin3_7.jpg)
