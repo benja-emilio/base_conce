@@ -1,38 +1,42 @@
-# [Asamblea T. Humedal Rocuant](https://www.instagram.com/asambleahumedalrocuant/)
+# Asamblea T. Humedal Rocuant
 
+[instagram](https://www.instagram.com/asambleahumedalrocuant/)
+[facebook](https://www.facebook.com/Asambleahumedalrocuant)
+[twitter]()
+<asambleahumedalrocuant@gmail.com>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+**Instagram**
 
-**Nombran:**  
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|2169|2813|0|
 
-**Comparten:**
+**Facebook**
 
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
+| seguidores | seguidos | hashtag |
+|---|---|---|
+|0|0|0|
 
 ---
 ### Describir:
 #### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Primera publicación IG: 4 de Nov 2019
+* **Actividad:**  
+
+* Primera publicación IG 4 de Nov 2019
+
+#### Cantidad de publicaciones
+| Instagram | Facebook | otro |
+|---|---|---|
+|183|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -93,6 +97,28 @@ Actividades:
 **Diseño estético:**
 
 >
+
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+
+| Declaraciones | infografía | 
+|---|---|
+|![imagen](103140795_188359882626294_5514518915929415601_n.jpg) | ![linkear imagen]() |
+|![imagen2](103191408_841342436355362_5727153335542201034_n.jpg) ||
+|![imagen3](103301769_555983298355068_6140351940107985445_n.jpg) ||
+|![imagen4](103362759_599054067408036_3084920963516079622_n.jpg) ||
+|![imagen5](103732573_887461001748885_429017950437419829_n.jpg) ||
+|![imagen6](103534244_3068692063224605_289027703355177816_n.jpg) ||
+
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
