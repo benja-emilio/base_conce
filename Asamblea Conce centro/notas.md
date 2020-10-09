@@ -2,9 +2,10 @@
 # Asamblea Conce Centro
 
 [instagram](https://www.instagram.com/asambleaconcecentro/)
-[facebook]()
+[facebook](https://www.facebook.com/asambleaconcecentro)
 [twitter]()
-<correo@correo.cl>
+<difusionasambleaconcecentro@gmail.com>
+<http://asambleaconcecentro.cl/>
 ---
 
 ### Representantes
