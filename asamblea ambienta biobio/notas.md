@@ -1,12 +1,11 @@
+#### FOLIO: CON02
 #  Asamblea Ambiental del Biobío
 
 [instagram](https://www.instagram.com/asambleaambientalbiobio/)
 [facebook](https://www.facebook.com/AsambleaAmbientalBioBio/)
 [twitter]()
 <asambleaambientalbiobio@gmail.com>
-
-
-
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
@@ -15,37 +14,33 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|Difusión de contenido y actividades|0|0| 0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|2790|403|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|3318|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|2795|404|103|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:**   
 
 * Primera Publicación IG 20 de Nov 2019
 
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|103|0|0|
-
 ---
 ### Frecuencia de publicación.
 
-| Actividades | Publicaciones |
-|---|---|  
-|mensual | semanal | 
+Publicaciones: semanal
+
+Actividades: mensual  
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Toda la region del Biobío. 
 
 ---
 ### Describir temas de interés y/o trabajo

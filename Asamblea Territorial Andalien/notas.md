@@ -1,39 +1,35 @@
-# [Asamblea Territorial Andalien](https://www.instagram.com/p/B5EhvcjhiMB/)
+#### FOLIO: CON02
+# Asamblea Territorial Andalien
+
+[instagram](https://www.instagram.com/asambleaterritorialandalien/)
+[facebook]()
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0| 0|
 
-**Nombran:**  
-
-**Comparten:**
-
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1359|827|156|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
-* Primera Publicación IG: 19 de Nov 2019
+* **Actividad:**   
+
+* Primera Publicación IG
 
 ---
 ### Frecuencia de publicación.
@@ -41,6 +37,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Concepción, zona Andalien. 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -97,6 +97,22 @@ Actividades:
 **Diseño estético:**
 
 >
+
+t---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen]() |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar acá notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

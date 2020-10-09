@@ -1,3 +1,4 @@
+#### FOLIO: CON01
 # Asamblea Lorenzo Arenas
 
 [instagram](https://www.instagram.com/asamblealorenzoarenas/)
@@ -13,29 +14,21 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|916|167|0|
-
-**Facebook**
-
-| seguidores | Me gusta | hashtag |
-|---|---|---|
-|963|855|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|937|185|118|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:** continua desde Noviembre. Con un reflujo en febrero. 
 * Primera Publicación IG 3 de Nov 2019
-
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|114|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -43,6 +36,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Concepción, zona Lorenzo Arenas. 
 
 ---
 ### Describir temas de interés y/o trabajo

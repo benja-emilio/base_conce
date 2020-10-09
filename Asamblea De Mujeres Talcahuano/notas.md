@@ -1,3 +1,4 @@
+#### FOLIO: TAL02
 # Asamblea de Mujeres Talcahuano Tralka Wenu
 
 [instagram](https://www.instagram.com/asambleamujeresthno/)
@@ -13,31 +14,32 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|1356|603|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|511|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1364|604|86|0|
 
 ---
-### Describir:
-
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:** continua desde Diciembre del 2019    
 
 * Primera Publicación IG 15 de Dic 2019 
 
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|86|0|0|
+### Frecuencia de publicación.
+
+Publicaciones:
+
+Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Talcahuano. 
 
 ---
 ### Describir temas de interés y/o trabajo

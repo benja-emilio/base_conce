@@ -1,4 +1,5 @@
-# Nombre organización
+#### FOLIO: Tres letras iniciales de la comuna y nº de organizacion (ejemplo: comuna santiago n6 = SAT6)
+# NOMBRE ASAMBLEA
 
 [instagram]()
 [facebook]()
@@ -13,31 +14,22 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|0|0|0|0|
 
 ---
-### Describir:
-
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:**   
 
 * Primera Publicación IG
-
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|0|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -45,6 +37,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -79,6 +75,7 @@ Actividades:
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
+> resumen de lo encontrado
 
 | Declaraciones | infografía | 
 |---|---|
@@ -87,10 +84,12 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
+> resumen de lo encontrado
 
 | Declaraciones | infografía | 
 |---|---|
 |Anotar los comunicados | ![imagen]() |
+
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

@@ -1,3 +1,4 @@
+#### FOLIO: TAL03
 # Asamblea T. Humedal Rocuant
 
 [instagram](https://www.instagram.com/asambleahumedalrocuant/)
@@ -13,30 +14,22 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|2169|2813|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|2169|2812|183|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:**  
 
 * Primera publicación IG 4 de Nov 2019
-
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|183|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -44,6 +37,10 @@
 Publicaciones: Casi a diario
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Talcahuano, zona Humedal Rocuant. 
 
 ---
 ### Describir temas de interes y/o trabajo

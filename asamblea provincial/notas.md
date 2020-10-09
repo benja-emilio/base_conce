@@ -1,3 +1,4 @@
+#### FOLIO: CON01
 # Asamblea Provincial de Concepción
 
 [instagram](https://www.instagram.com/asambleaprovincial/)
@@ -13,23 +14,21 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1521|354|166|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:** continua desde noviembre del 2019
+
 * Primera Publicación IG
 
 ---
@@ -38,6 +37,10 @@
 Publicaciones: Semanal
 
 Actividades: Mensual
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Provincia de Concepción. 
 
 ---
 ### Describir temas de interés y/o trabajo

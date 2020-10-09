@@ -1,3 +1,4 @@
+#### FOLIO: CON05
 # Asamblea Popular Barrio Norte
 
 [instagram](https://www.instagram.com/asambleapopularbarrionorte/)
@@ -13,30 +14,22 @@
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|1962|770|0|
-
-**Facebook**
-
-| seguidores | Me gusta| hashtag |
-|---|---|---|
-|1058|949|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1983|774|201|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:** continua desde Octubre de 2019.   
 
 * Primera Publicación IG 23 de Oct 2019 
-
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|198|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -44,6 +37,10 @@
 Publicaciones: Semanales, casi diarias.  
 
 Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce a 1.   
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Concepción, zona Barrio Norte. 
 
 ---
 ### Describir temas de interés y/o trabajo

@@ -1,3 +1,4 @@
+#### FOLIO: CON01
 # Asamblea Conce Centro
 
 [instagram](https://www.instagram.com/asambleaconcecentro/)
@@ -10,42 +11,25 @@
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Instagram**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0| 0|
 
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
-
-**Facebook**
-
-| seguidores | seguidos | hashtag |
-|---|---|---|
-|0|0|0|
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1163|145|85|0|
 
 ---
-### Describir:
-
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
 * **Actividad:**   
 
 * Primera Publicación IG
-
-#### Cantidad de publicaciones
-| Instagram | Facebook | otro |
-|---|---|---|
-|0|0|0|
 
 ---
 ### Frecuencia de publicación.
@@ -53,6 +37,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Concepción, zona centro. 
 
 ---
 ### Describir temas de interés y/o trabajo
