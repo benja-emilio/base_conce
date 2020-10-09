@@ -1,38 +1,33 @@
 # [Comité de Solidaridad Talcahuano](link)
 
+[instagram]()
+[facebook]()
+[twitter]()
+<correo@correo.cl>
+---
+
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
-
----
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
 
 ---
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-**Nombran:**  
-
-**Comparten:**
-
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|0|0|0|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
+* **Actividad:**
+
 * Primera Publicación IG
 
 ---
@@ -41,6 +36,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interes y/o trabajo
@@ -71,6 +70,24 @@ Actividades:
 **Diseño estetico:**
 
 >
+
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen]() |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interes para comprender tanto la forma como los contenidos asociados a la organización.

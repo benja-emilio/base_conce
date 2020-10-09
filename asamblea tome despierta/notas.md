@@ -1,39 +1,35 @@
-# [Asamblea Tome Despierta](https://www.instagram.com/asamblea.tomedespiertacl/)
+#### FOLIO: TOM01
+# Asamblea Tome Despierta
+
+[instagram](https://www.instagram.com/asamblea.tomedespiertacl/)
+[facebook]()
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-**Nombran:**  
-
-**Comparten:**
-
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1042|267|106|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
-* Primera Publicación IG: 31 de oct 2019
+* **Actividad:**  
+
+* Primera Publicación IG 31 de oct 2019
 
 ---
 ### Frecuencia de publicación.
@@ -41,6 +37,10 @@
 Publicaciones:
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo

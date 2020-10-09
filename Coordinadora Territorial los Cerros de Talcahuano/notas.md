@@ -1,39 +1,35 @@
-# [Coordinadora Territorial los Cerros de Talcahuano](https://www.instagram.com/ct.cerrosdethno/)
+#### FOLIO: TAL01
+# Coordinadora Territorial los Cerros de Talcahuano
+
+[instagram](https://www.instagram.com/ct.cerrosdethno/)
+[facebook]()
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-**Nombran:**  
-
-**Comparten:**
-
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|0|0|0|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
-* Primera Publicación IG 10 de Agos 2019
+* **Actividad:**  
+
+* Primera Publicación IG 10 de Ago 2019
 
 ---
 ### Frecuencia de publicación.
@@ -41,6 +37,10 @@
 Publicaciones: mensualmente hasta 18 de Oct 2019, luego es casi a diario
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad:
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -97,6 +97,24 @@ Actividades:
 **Diseño estético:**
 
 > 
+
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![linkear imagen]() |
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

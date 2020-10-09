@@ -1,38 +1,34 @@
-# [Asamblea Territorial Nonguen *Nonguenche*](https://www.instagram.com/asambleanonguen/)
+#### FOLIO: CON04
+# Asamblea Territorial Nonguen *Nonguenche*
+
+[instagram](https://www.instagram.com/asambleanonguen/)
+[facebook](https://www.facebook.com/Asamblea-Territorial-Nonguen-109566617184017/)
+[twitter]()
+<correo@correo.cl>
+---
 
 ### Representantes
 #### (Nombres o emails de voceros o representantes).
 
 ---
-### Seguidores
-#### (listar otras organizaciones sociales que los siguen)
-
----
-### Seguidos
-#### (listar otras organizaciones sociales a las cuales siguen)
-
----
 ### Interacciones frecuentes
 #### (listar otras organizaciones que habitualmente)
 
-**Los etiquetan:**
+### Redes sociales
+#### ¿Para qué se utiliza la red social?
+| Instagram | Facebook | Twitter | Otra 
+|---|---|---|---|
+|0|0|0|0|
 
-**Nombran:**  
-
-**Comparten:**
-
-**Comentan:**
-
-**Dan me gusta:**
-
-**Describir formas de interacción:**
-
+### **Instagram**
+| seguidores | seguidos | publicaciones | hashtag |
+|---|---|---|---|
+|1332|141|78|0|
 
 ---
-### Describir:
-#### (Actividad continua desde octubre, discontinua, actualmente inactiva, etc.)
 
-* Actividad  
+* **Actividad:**  
+
 * Primera Publicación IG 13 de Nov 2019 
 
 ---
@@ -41,6 +37,10 @@
 Publicaciones: Publicaciones semanales hasta el 4 de Ago 2020 
 
 Actividades:
+
+---
+### Ubicación
+* Sector de la comuna/ciudad: Comuna de Concepción, zona de Nonguen. 
 
 ---
 ### Describir temas de interés y/o trabajo
