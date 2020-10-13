@@ -29,12 +29,12 @@
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 24 de nov 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Se realizan de manera semanal. 
 
 Actividades:
 
@@ -45,6 +45,9 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Crisis sanitaria 
+* Red de abastecimiento 
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -53,9 +56,20 @@ Actividades:
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
+* Musica en vivo
+* Actividades culturales
+* Muralismo
+* Ferias libres 
+* Cacerolazo
+* Punto de acopio
+* Ciclos de debate y formación 
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+
+* Recuperación de la memoria territorial. 
+* 
 
 ---
 ### Tipo de organización interna.

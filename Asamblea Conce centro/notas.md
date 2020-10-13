@@ -19,7 +19,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y eventos|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -30,14 +30,14 @@
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 6 de Nov del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Existen periodos de no publicación intermitentes de al menos una semana, y luego multiples publicaciones en un solo dia 
 
-Actividades:
+Actividades: Las actividades son asi mensuales y principalmente destinada a actividades culturales al aire libre. Luego de la cuarentena se limitan a usar plataformas de video llamada.  
 
 ---
 ### Ubicación
@@ -45,6 +45,10 @@ Actividades:
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Urbanización y conflicto habitacional. (plan regulador de Concepción)
+
+* proceso constituyente
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -54,9 +58,21 @@ Actividades:
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
+* Asambleas
+* Cacerolazo 
+* Musica en vivo
+* Marcha
+* actividades de contraiformación
+* Ciclos de discusión y formación
+* Centro de acopio
+
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+
+* Ambientalismo y protección del entorno. 
+* Red de oficios. 
 
 ---
 ### Tipo de organización interna.
@@ -71,7 +87,7 @@ Actividades:
 
 **Diseño estético:**
 
-> Párrafo tipo cita 
+> El diseño estético de las imagenes es mas que nada simplista, donde se posiciona la comunidad a traves de diferentes capturas de colectividades tanto en asambleas como en portesta. 
 
 ---
 ### Percepciones que se tiene del Estado

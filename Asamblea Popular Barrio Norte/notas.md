@@ -47,7 +47,7 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 * Feminismo
 * Protección medioambiental 
-* Ciclos de formación 
+* Ciclos de debate y formación 
 * Protección de los DD.HH 
 * Crisis sanitaria 
 * Recuperación de la memoria
