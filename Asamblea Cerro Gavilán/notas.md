@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/asamblea_cerrogavilan/)
 [facebook](https://www.facebook.com/AsambleaCerroGavilan)
 [twitter]()
-<correo@correo.cl>
+<asambleaterritorialgavilan@gmail.com>
 ---
 
 ### Representantes
@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|718|756|92|10|
 
 ---
 
