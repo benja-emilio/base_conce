@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de contenido audivisual y medio de agitación|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:**    
 
 * Primera Publicación IG 24 de nov 2019
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Concepción, zona Cerro Gavilán. 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -68,8 +68,8 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* Recuperación de la memoria territorial. 
-* 
+* Recuperación de la memoria territorial 
+* Soberanía alimentaria 
 
 ---
 ### Tipo de organización interna.
@@ -80,11 +80,18 @@ Actividades:
 
 **Iconos:**
 
+![imagen5](74416332_425797864766172_1081220897687300386_n.jpg)
+![imagen6](82369328_139692017738028_1453914151887218374_n.jpg)
+![imagen7](116336731_961832984292445_7031792273401507096_n.jpg)
+![imagen8](96695046_1083330005373840_1551336662665603975_n.jpg)
+
 **Banderas:**
+
+![imagen10](117819826_225923622061044_4253389781571534794_n.jpg)
 
 **Diseño estético:**
 
-> Párrafo tipo cita 
+> En el diseño existe una preponderancia por los paisajes urbanos, graffitis y muralismo, aparte de mostrar parte de la comunidad. Ademas se va construyendo una linea propia, se puede inferir el uso de herramientas de diseño profesional.  
 
 ---
 ### Percepciones que se tiene del Estado
@@ -93,7 +100,14 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](109818204_159713698954365_2121577212798357804_n.jpg) | ![linkear imagen]() |
+|![imagen](109952451_1144910442547273_6124190741126852220_n.jpg) ||
+|![imagen11](121061052_343208230125326_1154798303161471310_n.jpg) ||
+|![imagen12](120791624_126278202277028_4581400874003069525_n.jpg) ||
+|![imagen13](121015912_663193920986196_7781707920451864725_n.jpg) ||
+|![imagen14](120803306_138167698025749_7593216941585062298_n.jpg) ||
+| ![imagen15](120851262_980507045764837_4882517396379112365_n.jpg) ||
+|![imagen16](120939665_328253861769597_8765931944827306113_n.jpg) ||
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -102,8 +116,8 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
-
+|![imagen3](116762160_793809994489047_8618626299348957390_n.jpg) | ![imagen](117243382_195080305298016_4237269655395499165_n.jpg) |
+|![imagen4](116435155_4406557366051408_6107768145772261562_n.jpg) | ![imagen9](117304080_381477672841300_4729902518732420635_n.jpg) |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
