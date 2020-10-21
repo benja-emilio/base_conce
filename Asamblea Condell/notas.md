@@ -27,9 +27,9 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Los eventos los realizan con alta frecuencia dentro de la plaza Condell, tanto en el mes de Noviembre como en Diciembre. El mes de Enero se evidencia un pequeño reflujo que se hace mas presente entre los mes de Febrero y Marzo. 
 
-* Primera Publicación IG
+* Primera Publicación IG 3 de nov 2019
 
 ---
 ### Frecuencia de publicación.
@@ -45,6 +45,11 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* El buen vivir 
+* Urbanismo y conflicto habitacional 
+* Crisis sanitaria 
+* Red de oficios
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -52,6 +57,17 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Actividades culturales
+* Asamblea
+* Contra información 
+* Velatón 
+* Difusión científica
+* Ferias libres
+* Marchas   
+* Ciclos de debate y formación
+* Presentación de Documentales
+* Punto de acopio 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

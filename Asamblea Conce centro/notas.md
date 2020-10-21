@@ -83,6 +83,8 @@ Actividades: Las actividades son asi mensuales y principalmente destinada a acti
 
 **Iconos:**
 
+![imagen](70251635_423097055248174_2229060470291582062_n.jpg)
+
 **Banderas:**
 
 **Diseño estético:**
