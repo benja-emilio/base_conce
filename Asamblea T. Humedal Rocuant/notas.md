@@ -45,7 +45,7 @@ Actividades:
 ---
 ### Describir temas de interes y/o trabajo
 
-* Protección Ambiental
+* Defensa medioambiental
 * Proceso constituyente
 * Conflicto Mapuche
 * Recuperación de la memoria
