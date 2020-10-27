@@ -1,10 +1,10 @@
-#### FOLIO: WAL4
-# Escuela Libre y Popular Wallpencillo
+#### FOLIO: TAL6
+# Tumbes Sustentable 
 
-[instagram](https://www.instagram.com/esclibreypopularwallpencillo/)
-[facebook](https://www.facebook.com/EscuelaLibreyPopularWallpencillo/)
+[instagram](https://www.instagram.com/tumbes.sustentable/)
+[facebook]()
 [twitter]()
-<esclibreypopularwallpencillo@gmail.com>
+<correo@correo.cl>
 ---
 
 ### Representantes
@@ -93,3 +93,5 @@ Actividades:
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+[recolección de firmas para la instalación de Salmonera en Tumbes](https://www.change.org/p/sgiacamang-gastonsaavedra-felix-gonzalezg-delannaysmario-evitemos-la-instalación-de-salmonera-en-tumbes-talcahuano?recruiter=306611825&utm_source=share_petition&utm_campaign=psf_combo_share_initial&utm_medium=whatsapp&utm_content=washarecopy_16889635_es-ES%3Av7&recruited_by_id=de5774b0-05ae-11e5-816b-8591ebaba262)
