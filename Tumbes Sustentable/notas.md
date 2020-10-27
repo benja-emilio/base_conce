@@ -2,9 +2,9 @@
 # Tumbes Sustentable 
 
 [instagram](https://www.instagram.com/tumbes.sustentable/)
-[facebook]()
+[facebook](https://www.facebook.com/Tumbes.sustentable)
 [twitter]()
-<correo@correo.cl>
+<tumbes.sustentable@gmail.com>
 ---
 
 ### Representantes
