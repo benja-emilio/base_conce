@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|2024|355|282|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 22 de Feb 2020
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,17 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Hualpén 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Libertad de lxs presxs politicxs de la revuelta
+* Feminismo 
+* Crisis sanitaria 
+* Derechos humanos
+* Protección de la infancia
+* Defensa medioambiental
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +59,15 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asamblea 
+* Marcha 
+* Cacerolazo 
+* Red de oficios 
+* Programas online de conversaciones (streaming)
+* Centro de acopio 
+* Contra información 
+* Charlas y actividades formativas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
