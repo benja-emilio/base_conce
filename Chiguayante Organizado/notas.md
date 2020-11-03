@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de actividades |0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|4464|228|364|4|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 25 de Octubre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,13 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Chiguayante 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Educación y Escolarización 
+* Libertad de lxs presxs politicxs de la revuelta
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +55,17 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* AGP 
+* Marcha 
+* Asamblea 
+* Actividades culturales
+* Música en vivo
+* Olla común 
+* Cacerolazo 
+* Muralismo 
+* Charlas y actividades formativas
+* Feria libre 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

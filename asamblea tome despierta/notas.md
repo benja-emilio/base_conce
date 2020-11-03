@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|1042|267|106|0|
+|1042|267|106|3|
 
 ---
 
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Tome 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -64,9 +64,10 @@ Actividades:
 * marchas
 * asambleas
 * actividades culturales
-* Voluntariado para limpiar areas naturales
+* Limpieza de áreas verdes  
 * Escuela constituyente
 * Centro de acopio
+* Cicletadas 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

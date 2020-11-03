@@ -1,7 +1,7 @@
 #### FOLIO: CON06
 # Asamblea Vecinal Pedro de Valdivia
 
-[instagram]()
+[instagram](https://www.instagram.com/asambleapedrodevaldivia/)
 [facebook](https://www.facebook.com/Asamblea-Vecinal-Pedro-de-Valdivia-115024036606796/)
 [twitter]()
 <correo@correo.cl>
@@ -25,14 +25,14 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|564|235|30|0|
 
 ---
 
 * **Actividad:**  
 
-* Primera Publicación IG No tiene 
-
+* Primera Publicación IG 7 de Nov 2019 
+  
 * Primera Publicación FB 7 de Nov 2019 
 
 ---

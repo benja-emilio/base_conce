@@ -36,7 +36,7 @@
 
 Publicaciones:
 
-Actividades:
+Actividades: De forma semanal desde el mes de Febrero y Marzo, sin embargo, existe un reflujo luego de la crisis sanitaria. 
 
 ---
 ### Ubicación
@@ -51,6 +51,7 @@ Actividades:
 * Derechos humanos
 * Protección de la infancia
 * Defensa medioambiental
+* Recuperación de la memoria 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -68,6 +69,9 @@ Actividades:
 * Centro de acopio 
 * Contra información 
 * Charlas y actividades formativas
+* Olla común 
+* Intervención artística 
+
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
