@@ -69,8 +69,8 @@ Actividades:
 * Actividades culturales
 * Charlas y actividades formativas
 * Navidad popular
-* emplazamiento a autoridades
-* olla común
+* Emplazamiento a autoridades
+* Olla común
 * Punto de acopio
 * Mateadas
 * talleres de primeros auxilios

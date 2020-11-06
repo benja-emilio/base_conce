@@ -53,6 +53,27 @@ Actividades:
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
+* Asambleas 
+* Marcha 
+* Cacerolazo 
+* Red de oficios 
+* Programas online de conversaciones (streaming)
+* Centro de acopio 
+* Contra información 
+* Charlas y actividades formativas
+* Olla común 
+* Intervención artística 
+* Velatón 
+* cicletadas
+* Voluntariado para rescate de fauna
+* junta de firmas para peticiones al tribunal ambiental
+* divulgación científica
+* Operativo de salud preventivo
+* Campaña solidaria por incendios 
+* Caminatas
+* talleres de primeros auxilios
+* Emplazamiento a autoridades
+
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
