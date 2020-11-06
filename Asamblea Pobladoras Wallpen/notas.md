@@ -49,9 +49,6 @@ Actividades:
 * Feminismo
 * Protección de la infancia
 * Red de oficios
-* Punto de acopio 
-* Velatón 
-* Olla común 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -65,6 +62,9 @@ Actividades:
 * Contra información
 * Cacerolazo 
 * Intervenciones artísticas 
+* Punto de acopio 
+* Velatón 
+* Olla común 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

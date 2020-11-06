@@ -47,7 +47,7 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 * Feminismo
 * Protección medioambiental 
-* Ciclos de debate y formación 
+ 
 * Protección de los DD.HH 
 * Crisis sanitaria 
 * Recuperación de la memoria
@@ -89,6 +89,7 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 * Conversatorios 
 * Olla común 
 * Ayekan
+* Ciclos de debate y formación
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

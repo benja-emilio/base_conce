@@ -48,8 +48,8 @@ Actividades: Mensual
 * Trabajo
 * Medio Ambiente
 * Derechos humanos
-* Feminismo y sexualidades
-* Salud
+* Feminismo 
+* Crisis sanitaria 
 * Protección sociales
 * Urbanismo y conflicto habitacional
 

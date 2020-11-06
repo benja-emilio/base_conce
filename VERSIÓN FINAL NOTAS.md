@@ -45,9 +45,26 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Protección medioambiental
+* Urbanización y problemática habitacional
+* Plan regulador
+* Crisis sanitaria 
+* Red de abastecimiento 
+* Red de oficios
+* Proceso constituyente
+* Conflicto Mapuche
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Recuperación de la memoria
+* Protección de los DD.HH
+* Protección de la infancia
+* Educación y Escolarizació
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
+
+* El buen vivir
 
 ---
 ### ¿Que se hace?
@@ -63,6 +80,7 @@ Actividades:
 * Charlas y actividades formativas
 * Olla común 
 * Intervención artística 
+* Actividades culturales
 * Velatón 
 * cicletadas
 * Voluntariado para rescate de fauna
@@ -73,6 +91,8 @@ Actividades:
 * Caminatas
 * talleres de primeros auxilios
 * Emplazamiento a autoridades
+* Ayekan
+* Feria libre
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

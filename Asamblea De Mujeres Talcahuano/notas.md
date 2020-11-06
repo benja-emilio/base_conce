@@ -45,7 +45,7 @@ Actividades:
 ### Describir temas de interés y/o trabajo
 
 * Feminismo
-* Defensa Medioambiental
+* Protección medioambiental
 * Conflicto Mapuche
 
 ---

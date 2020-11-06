@@ -44,7 +44,7 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
-* Defensa medioambiental
+* Protección medioambiental
 * Recuperación de la memoria
 * Feminismo
 * Libertad para lxs presxs de la revuelta
