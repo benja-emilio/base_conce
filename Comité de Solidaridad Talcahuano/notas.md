@@ -1,9 +1,9 @@
 # [Comité de Solidaridad Talcahuano](link)
 
-[instagram]()
-[facebook]()
+[instagram](https://www.instagram.com/comitesolidaridad.thno/)
+[facebook](https://www.facebook.com/Comité-de-Solidaridad-Talcahuano-104354961336604)
 [twitter]()
-<correo@correo.cl>
+<comitedesolidaridad.thno@gmail.com>
 ---
 
 ### Representantes
@@ -17,7 +17,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|920|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |

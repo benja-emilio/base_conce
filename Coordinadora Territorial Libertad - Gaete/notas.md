@@ -23,27 +23,30 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|569|143|0|0|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 3 de Noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Existen periodos inactivos entre el mes de enero y febrero del 2020, igualmente entre abril y mayo del mismo año. 
 
-Actividades:
+Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019. 
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Talcahuano, población Libertad. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Protección de los DD.HH
+
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +55,13 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Actividades culturales
+* Marchas  
+* Centro de acopio 
+* Rifa 
+* Olla común
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

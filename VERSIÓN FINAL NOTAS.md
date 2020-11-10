@@ -71,7 +71,7 @@ Actividades:
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
 * Asambleas 
-* Marcha 
+* Marchas 
 * Cacerolazo 
 * Red de oficios 
 * Programas online de conversaciones (streaming)
@@ -93,6 +93,7 @@ Actividades:
 * Emplazamiento a autoridades
 * Ayekan
 * Feria libre
+* Rifa 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
