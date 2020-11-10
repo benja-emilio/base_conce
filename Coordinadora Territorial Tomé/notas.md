@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de actividades |0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -40,10 +40,17 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Tome, zona centro. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Protección medioambiental
+* Feminismo
+* Cicletadas
+* Intervención artística 
+* Libertad para lxs presxs de la revuelta
+* Protección de los DD.HH
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +59,13 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Marchas
+* Cacerolazo 
+* Actividades culturales
+* Asambleas
+* Velatón
+* Charlas y actividades formativas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -82,7 +82,7 @@ Actividades:
 * Intervención artística 
 * Actividades culturales
 * Velatón 
-* cicletadas
+* Cicletadas
 * Voluntariado para rescate de fauna
 * junta de firmas para peticiones al tribunal ambiental
 * divulgación científica
