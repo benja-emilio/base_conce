@@ -59,6 +59,7 @@ Actividades:
 * Protección de los DD.HH
 * Protección de la infancia
 * Educación y Escolarizació
+* Sistema de seguridad social (pensiones)
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -94,6 +95,8 @@ Actividades:
 * Ayekan
 * Feria libre
 * Rifa 
+* Muralismo
+* Talleres de cine
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

@@ -51,6 +51,10 @@ Actividades:
 * Intervención artística 
 * Libertad para lxs presxs de la revuelta
 * Protección de los DD.HH
+* Proceso constituyente
+* Crisis sanitaria 
+* Conflicto Mapuche
+* Libertad para lxs presxs de la revuelta
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -66,6 +70,10 @@ Actividades:
 * Asambleas
 * Velatón
 * Charlas y actividades formativas
+* Contra información
+* Olla común 
+* Centro de acopio
+* Ayekan
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

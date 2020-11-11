@@ -2,9 +2,9 @@
 # Jóvenes Pobladores Penco-Lirquen
 
 [instagram](https://www.instagram.com/jovenespobladores_penco/)
-[facebook]()
+[facebook](https://www.facebook.com/Red-de-Jóvenes-Pobladores-Penco-Lirquén-107700874007706)
 [twitter]()
-<correo@correo.cl>
+<agrupacionyanequen@gmail.com>
 ---
 
 ### Representantes
@@ -23,7 +23,7 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|198|180|46|0|
 
 ---
 
@@ -34,13 +34,13 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Las publicaciones se hacen de manera constante durante el mes, con al menos 3 o 4. Sin embargo, existe un periodo de inactividad durante el mes de abril del 2020
 
-Actividades:
+Actividades: Se realizan diferentes actividades durante los meses que van desde noviembre a marzo, principalmente muralismo, talleres de cine y asambleas. Luego de la crisis sanitaria las actividades se focalizan para afrontarla. 
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Penco. 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -49,6 +49,8 @@ Actividades:
 * Feminismo
 * Sistema de seguridad social (pensiones)
 * Conflicto Mapuche
+* Protección de los DD.HH
+* Protección medioambiental
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -60,11 +62,13 @@ Actividades:
 
 * Muralismo
 * Actividades deportivas
-* Jornadas formativas y charlas
-* talleres de Cine
-* marchas
+* Charlas y actividades formativas
+* Talleres de cine
+* Marchas
 * Cacerolazo
-* punto de acopio
+* Centro de acopio
+* Operativo de salud preventivo
+* Velatón 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
