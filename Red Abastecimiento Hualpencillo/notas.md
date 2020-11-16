@@ -2,7 +2,7 @@
 # NOMBRE ASAMBLEA
 
 [instagram](https://www.instagram.com/red.abast.hualpencillo/)
-[facebook]()
+[facebook](https://www.facebook.com/redabastecimientohualpencillo/)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -18,18 +18,18 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|0|También utilizan esta red social como [grupo de usuarios](https://www.facebook.com/redabastecimientohualpencillo/)|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1010|1055|153|7|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 31 de marzo del 2020
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,17 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Hualpen, zona Hualpencillo
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Red de abastecimiento 
+* Red de oficios
+* Protección medioambiental
+* Centro de acopio 
+* Feminismo
+* Conflicto Mapuche
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +59,10 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Olla común 
+* Contra información
+* Centro de acopio 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -93,3 +104,5 @@ Actividades:
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+[Encuesta sobre emprendimientos y pymes en la comuna](https://docs.google.com/forms/d/e/1FAIpQLScXyizAfOSZe60RvtNbj8ArU0ejXdEKR-uqTygbJ-bgAl93xQ/viewform)

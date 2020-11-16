@@ -17,32 +17,35 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|920|0|0|
+|0|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|92|37|4|0|
 
 ---
 
 * **Actividad:**
 
-* Primera Publicación IG
+* Primera Publicación IG 15 de Junio 
 
 ---
 ### Frecuencia de publicación.
 
 Publicaciones:
 
-Actividades:
+Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Talcahuano
 
 ---
 ### Describir temas de interes y/o trabajo
+
+* Red de abastecimiento
+* Voluntariado 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -51,6 +54,9 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contrainformacion, emplazamiento a autoridades etc.)
+
+* Olla común 
+* Centro de acopio 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -64,6 +70,9 @@ Actividades:
 ### Describir los temas / imagenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+
+![imagen1](103036327_277858196959553_1408561203318953335_n.jpg)
+![imagen2](106487921_306249413745501_4487625202620075088_n.jpg)
 
 **Banderas:**
 

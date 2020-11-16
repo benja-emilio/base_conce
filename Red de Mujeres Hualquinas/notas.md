@@ -18,12 +18,12 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de actividades|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1270|887|148|2|
 
 ---
 
@@ -40,10 +40,21 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Hualqui
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Feminismo
+* Crisis sanitaria
+* Proceso constituyente
+* Conflicto Mapuche
+* Sistema de seguridad social (pensiones)
+* Recuperación de la memoria
+* Protección de los DD.H
+* Protección medioambiental
+* Protección de la infancia
+* Libertad para lxs presxs de la revuelta
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +63,21 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Marchas
+* Agitación y propaganda 
+* Cacerolazo  
+* Muralismo
+* Charlas y actividades formativas
+* Cicletadas
+* Intervención artística 
+* Emplazamiento a autoridades
+* Olla común 
+* Ayekan
+* Velatón 
+* Asambleas 
+* Rifa 
+* Voluntariado para limpieza de áreas verdes
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

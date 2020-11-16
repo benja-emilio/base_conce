@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de sus actividades|Este es el medio que mas utilizan. Desde coordinar actividades hasta entregar info ciclista|No tiene |0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -29,7 +29,7 @@
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 29 de diciembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,7 +40,7 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Penco
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -49,9 +49,13 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* Mutualismo y asistencia entre ciclistas de la comuna. 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Cicletadas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

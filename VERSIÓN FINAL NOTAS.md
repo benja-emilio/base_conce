@@ -60,6 +60,7 @@ Actividades:
 * Protección de la infancia
 * Educación y Escolarizació
 * Sistema de seguridad social (pensiones)
+* Voluntariado 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -73,8 +74,7 @@ Actividades:
 
 * Asambleas 
 * Marchas 
-* Cacerolazo 
-* Red de oficios 
+* Cacerolazo  
 * Programas online de conversaciones (streaming)
 * Centro de acopio 
 * Contra información 
@@ -85,8 +85,9 @@ Actividades:
 * Velatón 
 * Cicletadas
 * Voluntariado para rescate de fauna
+* Voluntariado para limpieza de áreas verdes
 * junta de firmas para peticiones al tribunal ambiental
-* divulgación científica
+* Divulgación científica
 * Operativo de salud preventivo
 * Campaña solidaria por incendios 
 * Caminatas
@@ -97,6 +98,7 @@ Actividades:
 * Rifa 
 * Muralismo
 * Talleres de cine
+* Agitación y propaganda
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

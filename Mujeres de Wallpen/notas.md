@@ -3,7 +3,7 @@
 
 [instagram](https://www.instagram.com/mujereswallpeninas/)
 [facebook]()
-[twitter]()
+[twitter](https://twitter.com/mujwallpeninas)
 <correo@correo.cl>
 ---
 
@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|2129|828|207|5|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 14 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -45,13 +45,36 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Proceso constituyente
+* Recuperación de la memoria
+* Protección de la infancia
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> Hace un tiempo hicimos un grupo de mujeres de Hualpén con la finalidad de tener un red de apoyo y ayudarnos en lo que fuese necesario. Luego del estallido social el grupo se tornó más necesario, era en donde nos comunicábamos, nos pasamos datos y nos ayudamos entre nosotras, por sobre todo las mujeres que eran mamás. Sentimos necesario reunirnos y conocernos más, ya que además de un espacio de amistad y risas también somos conscientes de que nuestras necesidades muchas veces son invisibles a los ojos del resto. Es por esto que voluntarias del grupo nos reunimos para organizar la Primera Asamblea de Mujeres Wallpeninas
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Marchas 
+* Intervención artística
+* Velatón 
+* Charlas y actividades formativas
+* Olla común 
+* Cacerolazo  
+* Divulgación científica
+* Crisis sanitaria
+* Contra información
+* Programas online de conversaciones (streaming)
+* Centro de acopio 
+* Emplazamiento a autoridades
+* Cicletadas
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo

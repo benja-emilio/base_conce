@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1231|769|100|1|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 13 de mayo del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -40,10 +40,13 @@ Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Talcahuano, zona de Tumbes. 
 
 ---
 ### Describir temas de interés y/o trabajo
+
+* Protección medioambiental
+* Feminismo
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -52,6 +55,12 @@ Actividades:
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Emplazamiento a autoridades
+* Marchas
+* Intervención artística
+* Centro de acopio 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
