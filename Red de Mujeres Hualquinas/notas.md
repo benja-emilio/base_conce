@@ -1,4 +1,4 @@
-#### FOLIO: HUL2
+#### FOLIO: HUL1
 # Red de Mujeres Hualquinas
 
 [instagram](https://www.instagram.com/reddemujereshualquinas/)

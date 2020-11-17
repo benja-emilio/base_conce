@@ -1,10 +1,10 @@
-#### FOLIO: CON10
-# Conce Solidario
+#### FOLIO: 
+# Asamblea Barrial Puchacay
 
-[instagram]()
-[facebook](https://www.facebook.com/Conce-solidario-107011480974293/?ref=page_internal)
+[instagram](https://www.instagram.com/barriopuchacay/)
+[facebook](https://www.facebook.com/Asamblea-Barrio-Puchacay-107798757380065)
 [twitter]()
-<correo@correo.cl>
+<asambleabarrialpuchacay@gmail.com>
 ---
 
 ### Representantes
@@ -45,13 +45,60 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
+* Protección medioambiental
+* Urbanización y problemática habitacional
+* Plan regulador
+* Crisis sanitaria 
+* Red de abastecimiento 
+* Red de oficios
+* Proceso constituyente
+* Conflicto Mapuche
+* Feminismo
+* Libertad para lxs presxs de la revuelta
+* Recuperación de la memoria
+* Protección de los DD.HH
+* Protección de la infancia
+* Educación y Escolarizació
+* Sistema de seguridad social (pensiones)
+* Voluntariado 
+
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* El buen vivir
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
+
+* Asambleas 
+* Marchas 
+* Cacerolazo  
+* Programas online de conversaciones (streaming)
+* Centro de acopio 
+* Contra información 
+* Charlas y actividades formativas
+* Olla común 
+* Intervención artística 
+* Actividades culturales
+* Velatón 
+* Cicletadas
+* Voluntariado para rescate de fauna
+* Voluntariado para limpieza de áreas verdes
+* junta de firmas para peticiones al tribunal ambiental
+* Divulgación científica
+* Operativo de salud preventivo
+* Campaña solidaria por incendios 
+* Caminatas
+* talleres de primeros auxilios
+* Emplazamiento a autoridades
+* Ayekan
+* Feria libre
+* Rifa 
+* Muralismo
+* Talleres de cine
+* Agitación y propaganda
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
