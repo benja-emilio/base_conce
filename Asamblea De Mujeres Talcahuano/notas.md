@@ -116,7 +116,8 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen11](106721938_738887573526176_7732261630433432987_n.jpg) | ![imagen]() |
+|![imagen12](106914232_139404211115027_8384282935256398288_n.jpg) ||
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
