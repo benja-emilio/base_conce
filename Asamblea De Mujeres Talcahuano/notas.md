@@ -108,7 +108,9 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen13](118652754_440880530161469_8734855529748236412_n.jpg) | ![linkear imagen]() |
+|![imagen15](118559162_964046514109618_5571875808938613650_n.jpg)||
+|![imagen16](118655762_665492864066709_3750885112682270352_n.jpg) ||
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -116,8 +118,9 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|![imagen11](106721938_738887573526176_7732261630433432987_n.jpg) | ![imagen]() |
+|![imagen11](106721938_738887573526176_7732261630433432987_n.jpg) | ![imagen](120465638_379005283253388_6380651283799852125_n.jpg) |
 |![imagen12](106914232_139404211115027_8384282935256398288_n.jpg) ||
+|![imagen13](116422867_165589715084418_3272113181636264379_n.jpg)||
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
