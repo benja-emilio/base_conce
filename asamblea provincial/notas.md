@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión y coordinación de actividades, ademas difunde información regional y nacional|No tiene|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -29,7 +29,7 @@
 
 * **Actividad:** continua desde noviembre del 2019
 
-* Primera Publicación IG
+* Primera Publicación IG 0 de Noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -67,6 +67,7 @@ Actividades: Mensual
 ![imagen8](pliego8.jpg)
 ![imagen9](pliego9.jpg)
 ![imagen10](pliego10.jpg)
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -84,7 +85,6 @@ Actividades: Mensual
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* Conjunto de fotos con las demandas completas en el archivo
 
 ---
 ### Tipo de organización interna.
@@ -105,9 +105,8 @@ Actividades: Mensual
 
 **Banderas:**
 
-* Chilena
-* Mapuche (tricolor)
-* Rojinegra
+![imagen4](73274597_242653823379827_2941936375316679283_n.jpg)
+![imagen5](72652845_429284184454835_1006656064805604912_n.jpg)
 
 **Diseño estético**:
 
@@ -119,7 +118,9 @@ Actividades: Mensual
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen](90895180_548967112405841_2140128388352388651_n.jpg) | ![linkear imagen]() |
+|![imagen2](91127262_206810050610704_2852542118094140175_n.jpg) ||
+|![imagen3](91104303_2838297132932728_4307255558905226512_n.jpg) ||
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -127,7 +128,7 @@ Actividades: Mensual
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](82309515_485206559070247_3718469274458880797_n.jpg) |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
