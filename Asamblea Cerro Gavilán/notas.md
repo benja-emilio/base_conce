@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de contenido audivisual y medio de agitación|0|0|0|
+|Difusión de contenido audiovisual y medio de agitación|Medio de contenido a través de streaming, coordinar actividades y medio de difusión |No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**    
+* **Actividad:** Hay alta actividad entre noviembre y diciembre del 2019, por el contrario existe un periodo inactivo de Enero y Febrero del 2020.     
 
 * Primera Publicación IG 24 de nov 2019
 
@@ -36,7 +36,7 @@
 
 Publicaciones: Se realizan de manera semanal. 
 
-Actividades:
+Actividades: Las actividades son principalmente en diciembre del 2019, ya que desde marzo del 2020 se ven reducidas por la crisis sanitaria. Aunque luego se da de forma continua la red de abastecimiento
 
 ---
 ### Ubicación
@@ -52,6 +52,7 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+![imagen5](75403180_2491786184413420_3320801765654240909_n.jpg)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
