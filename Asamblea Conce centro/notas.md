@@ -54,6 +54,8 @@ Actividades: Las actividades son asi mensuales y principalmente destinada a acti
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+Mas que nada se busca el trabajo barrial cooperativo, levantar trabajo destinado a las y los vecinos a fines principalmente a las problemáticas del plan regulador y los megaedificios. 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)

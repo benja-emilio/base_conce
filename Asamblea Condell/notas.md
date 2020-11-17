@@ -18,12 +18,12 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de actividades e información con respecto a las diferentes coyunturas que a vivido el país. También de transmitir relatos de la protesta |Difusión de actividades e información con respecto a las diferentes coyunturas que a vivido el país|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|3134|127|150|0|
 
 ---
 
@@ -53,7 +53,7 @@ Actividades:
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
-
+![imagen7](79937320_449196556023114_6740418682727878754_n.jpg)
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -82,7 +82,12 @@ Actividades:
 
 **Iconos:**
 
+![imagen6](101331933_595747731036606_217299473108101385_n.jpg)
+![imagen12](71872940_2748360145203724_9222999714565877716_n.jpg)
+
 **Banderas:**
+
+![imagen5](78964326_2594105204156534_1733323904643837687_n.jpg)
 
 **Diseño estético:**
 
@@ -100,12 +105,16 @@ Actividades:
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> Un comunicado con respecto a la labor que a cometido las fuerzas del orden dentro de la comunidad.
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen13](122191643_189991552584978_5258339460461513864_n.jpg) | ![imagen]() |
 
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+![imagen10](93679483_231491871264756_6114192384378912507_n.jpg)
+![imagen11](93869777_2384324495198133_3082426700138187858_n.jpg)
+![imagen9](93520208_2627223580892238_9093547330527701626_n.jpg)
