@@ -23,13 +23,13 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|0|0|0|0|
+|1904|370|295|4|
 
 ---
 
 * **Actividad:**   
 
-* Primera Publicación IG
+* Primera Publicación IG 5 de noviembre del 2019
 
 ---
 ### Frecuencia de publicación.
@@ -45,60 +45,39 @@ Actividades:
 ---
 ### Describir temas de interés y/o trabajo
 
-* Protección medioambiental
-* Urbanización y problemática habitacional
-* Plan regulador
-* Crisis sanitaria 
-* Red de abastecimiento 
-* Red de oficios
-* Proceso constituyente
 * Conflicto Mapuche
-* Feminismo
-* Libertad para lxs presxs de la revuelta
-* Recuperación de la memoria
-* Protección de los DD.HH
-* Protección de la infancia
-* Educación y Escolarizació
-* Sistema de seguridad social (pensiones)
+* Proceso constituyente
+* Feria libre
+* Voluntariado para limpieza de áreas verdes
+* Urbanización y problemática habitacional
 * Voluntariado 
+* Red de abastecimiento 
+* Crisis sanitaria 
+* Recuperación de la memoria
+* Libertad para lxs presxs de la revuelta
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
 * El buen vivir
+![ima5](81646258_177385046984283_2229133787456080329_n.jpg)
 
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
 
 * Asambleas 
-* Marchas 
-* Cacerolazo  
-* Programas online de conversaciones (streaming)
-* Centro de acopio 
-* Contra información 
-* Charlas y actividades formativas
-* Olla común 
-* Intervención artística 
 * Actividades culturales
-* Velatón 
-* Cicletadas
-* Voluntariado para rescate de fauna
-* Voluntariado para limpieza de áreas verdes
-* junta de firmas para peticiones al tribunal ambiental
-* Divulgación científica
-* Operativo de salud preventivo
-* Campaña solidaria por incendios 
-* Caminatas
-* talleres de primeros auxilios
-* Emplazamiento a autoridades
-* Ayekan
-* Feria libre
-* Rifa 
+* Charlas y actividades formativas
 * Muralismo
-* Talleres de cine
-* Agitación y propaganda
+* Velatón 
+* Caminatas
+* Divulgación científica
+* Bingo
+* Campaña solidaria por incendios 
+* Muralismo
+* Centro de acopio
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
@@ -113,7 +92,15 @@ Actividades:
 
 **Iconos:**
 
+![imagen3](82672795_169917094291346_5942904498819970757_n.jpg)
+![imagen6](83568820_549082589057606_5096525530212097477_n.jpg)
+![ima7](115926780_3256599754396546_1025626508279730301_n.jpg)
+![ima19](118407401_1248006878872704_4662459197984651310_n.jpg)
+![imagen14](123952026_784823625395752_1412421393563210543_n.jpg)
+
 **Banderas:**
+
+![imagen8](117177300_602563943981205_7540758413429926472_n.jpg)
 
 **Diseño estético:**
 
@@ -126,7 +113,11 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![imagen3](75352116_125066548579475_8577157278484351968_n.jpg) | ![linkear imagen](122312212_668282077151459_170044461673834552_n.jpg) |
+|![imagen](116434986_964545453997976_919460568347873747_n.jpg) ||
+| |![ima3](120278883_263143844876989_3529231597081608847_n.jpg) |
+|![ima4](120345695_486055692350800_8013438229598891182_n.jpg) ||
+|![imagen](120321697_3329912897087142_8265934365942369809_n.jpg) ||
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -135,8 +126,23 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![imagen9](117596392_104497974648508_3578307049443883335_n.jpg) ||
+|![imagen10](117202614_309530353498435_5464726682161247145_n.jpg) ||
+|![imagen11](117292745_3180758061972077_3003101628867492156_n.jpg) ||
+|![imagen](117318031_666839700594273_242134426938413587_n.jpg) || 
+|![imagen99](117254456_631988364101979_778265672355401692_n.jpg) ||
+|![imagen](120444284_444943093138468_635545364044537151_n.jpg) ||
+|![imagen18](120480114_337718420622331_6992526632272317408_n.jpg) ||
 
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+* Bingo Solidario online 
+![ima](1.jpg)
+![ima](2.jpg)
+![ima](3.jpg)
+![ima](4.jpg)
+![ima](5.jpg)
+![ima](6.jpg)
+![ima](7.jpg)

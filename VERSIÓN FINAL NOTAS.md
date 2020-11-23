@@ -99,6 +99,7 @@ Actividades:
 * Muralismo
 * Talleres de cine
 * Agitación y propaganda
+* Bingo
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
