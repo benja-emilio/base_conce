@@ -34,9 +34,12 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Tienen una trabajo muy activo en RR.SS, por semana tienen una alta frecuencia de publicaciones. Sobre todo se nota un trabajo (semi)profesional de 
 
-Actividades:
+Actividades: Realizan múltiples actividades, con bastante frecuencia desde Noviembre hasta la crisis sanitaria. Incluso en Enero y febrero estuvieron bastante activos, principalmente gracias a la facilitación
+de un teatro. Ademas de la movilizaciones que han tenido con respecto a los megaedificios en el sector causando problemas con las cañerías de agua potable. 
+
+Luego de la crisis han optado por realizar actividades online con mucha creatividad. LLegando hasta realizar un bingo via streaming.  
 
 ---
 ### Ubicación
