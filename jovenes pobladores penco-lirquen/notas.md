@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión y coordinación de actividades|0|0|0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -56,6 +56,8 @@ Actividades: Se realizan diferentes actividades durante los meses que van desde 
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> Se puede deducir por sus publicaciones una convivencia cooperativa y libre de violencias con un gran foco en la juventud y su desarrollo.
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -83,12 +85,12 @@ Actividades: Se realizan diferentes actividades durante los meses que van desde 
 
 **Iconos:**
 
-* Víctor jara
+![ima2](74606996_535071027049495_1607323325760461852_n.jpg)
+![ima4](109445878_1155920564785631_831035790049138230_n.jpg)
 
 **Banderas:**
 
-* Bandera mapuche
-* Wiphala
+![ima3](77381063_2820806874606601_3242919574963638224_n.jpg)
 
 **Diseño estético:**
 
@@ -101,7 +103,8 @@ Actividades: Se realizan diferentes actividades durante los meses que van desde 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![ima3](99425219_257903971995070_5749470869862107865_n.jpg) | |
+|![ima4](98272823_186481129223410_5172015234003572372_n.jpg) ||
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -110,7 +113,7 @@ Actividades: Se realizan diferentes actividades durante los meses que van desde 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados |  |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

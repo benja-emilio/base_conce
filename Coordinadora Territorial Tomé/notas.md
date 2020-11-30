@@ -47,8 +47,6 @@ Actividades: Multiples marchas y con bastante frecuencia entre los meses de octu
 
 * Protección medioambiental
 * Feminismo
-* Cicletadas
-* Intervención artística 
 * Libertad para lxs presxs de la revuelta
 * Protección de los DD.HH
 * Proceso constituyente
@@ -59,6 +57,8 @@ Actividades: Multiples marchas y con bastante frecuencia entre los meses de octu
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
+![iam2](74599501_2513440622265364_1127422337298915496_n.jpg)
+![ima3](75375739_402928813968638_4585072091684239106_n.jpg)
 
 ---
 ### ¿Que se hace?
@@ -74,12 +74,14 @@ Actividades: Multiples marchas y con bastante frecuencia entre los meses de octu
 * Olla común 
 * Centro de acopio
 * Ayekan
+* Cicletadas
+* Intervención artística 
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
-![iam2](74599501_2513440622265364_1127422337298915496_n.jpg)
-![ima3](75375739_402928813968638_4585072091684239106_n.jpg)
+
+>Se insta a realizar actos de "Recuperación Ecológica y Cultural"
 
 ---
 ### Tipo de organización interna.
