@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de actividades |0|0|0|
+|Difusión de actividades |Difusión de informacion nacional y regional |No tiene |No se encuentra|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,16 +27,16 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Continua desde mayo del 2019.   
 
-* Primera Publicación IG 
+* Primera Publicación IG 29 de mayo del 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Tienen una alta frecuencia de publicaciones entre octubre y diciembre del 2019. Para el mes de febrero se nota una baja, sin embargo, se vuelve a un ritmo mas continuo desde el mes de marzo del 2020
 
-Actividades:
+Actividades: Multiples marchas y con bastante frecuencia entre los meses de octubre y diciembre del 2019, incluso hasta enero del 2020. Denota un reflujo en el mes de febrero. Para volver a actividades con la precaución de la crisis sanitaria por la pandemia. 
 
 ---
 ### Ubicación
@@ -78,6 +78,8 @@ Actividades:
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+![iam2](74599501_2513440622265364_1127422337298915496_n.jpg)
+![ima3](75375739_402928813968638_4585072091684239106_n.jpg)
 
 ---
 ### Tipo de organización interna.
@@ -88,7 +90,13 @@ Actividades:
 
 **Iconos:**
 
+![ima](71725790_121578255610428_8509634112659138894_n.jpg)
+![ima](75629063_556629911814621_8405093237939959886_n.jpg)
+![ima33](81353410_811430512710709_6670693143411437588_n.jpg)
+
 **Banderas:**
+
+![ima15](102694915_165158628333572_7848676514497539716_n.jpg)
 
 **Diseño estético:**
 
@@ -101,8 +109,8 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
-
+|![ima12](81810833_466751900897193_7484752436574870777_n.jpg) |  |
+|![ima13](87744983_204162464161474_7824424457054323467_n.jpg)|| 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
