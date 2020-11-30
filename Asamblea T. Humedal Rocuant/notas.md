@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de información sobre flora y fauna autoctona, ademas de coordinar y difundir actividades|Difusión de información nacional, local y sobre flora y fauna|No tiene|[Canal de youtube](https://www.youtube.com/channel/UCZ-xRXsZCUqegkR4wjKOEIw) |
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -56,6 +56,8 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> Un ambiente libre de contaminación y cuidado por el medioambiente. 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -72,13 +74,13 @@ Actividades:
 * Música en vivo
 * Emplazamiento a autoridad (Municipalidad de Talcahuano)
 * Cacerolazo 
+* Programas online de conversaciones (streaming)
 
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* No TTP 11 -reivindicativo-
-* Conciencia de los humedales -prefigurativo-
+* Conciencia por los humedales y areas verdes de Talcahuano. 
 
 ---
 ### Tipo de organización interna.
@@ -89,7 +91,11 @@ Actividades:
 
 **Iconos:**
 
+![ima2](92667045_1643318775806520_334874952903211679_n.jpg)
+
 **Banderas:**
+
+![ima3](101019658_555491411820466_7003737833944789540_n.jpg)
 
 **Diseño estético:**
 
