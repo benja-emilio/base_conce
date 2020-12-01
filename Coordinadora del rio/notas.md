@@ -2,7 +2,7 @@
 # Coordinadora del Río
 
 [instagram](https://www.instagram.com/coordinadora.delrio/)
-[facebook]()
+[facebook](https://www.facebook.com/Coordinadora-del-Río-108180527307273/)
 [twitter]()
 <correo@correo.cl>
 ---
@@ -92,7 +92,7 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 **Iconos:**
 
 * Estrella de 5 puntas 
-* Dos jóvenes junto a un rio 
+![ima](93828496_541224843469272_1146893204418041516_n.jpg)
 * Cacerola 
 * Puño en alto  
 

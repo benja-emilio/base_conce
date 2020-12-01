@@ -2,7 +2,7 @@
 # Asamblea Territorial Andalien
 
 [instagram](https://www.instagram.com/asambleaterritorialandalien/)
-[facebook]()
+[facebook](https://www.facebook.com/Asamblea-territorial-andalien-112157600261144)
 [twitter]()
 <correo@correo.cl>
 ---
