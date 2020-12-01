@@ -4,7 +4,7 @@
 [instagram](https://www.instagram.com/ct.libertadgaete/)
 [facebook](https://www.facebook.com/CT.LIBERTADGAETE/)
 [twitter]()
-<correo@correo.cl>
+<coordinadora.libertadgaete@gmail.com>
 ---
 
 ### Representantes
@@ -23,11 +23,11 @@
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
 |---|---|---|---|
-|569|143|0|0|
+|575|141|68|15|
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Aun activa pero con una baja participación en el mes de agosto  
 
 * Primera Publicación IG 3 de Noviembre del 2019
 
