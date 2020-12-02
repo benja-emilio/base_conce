@@ -49,7 +49,8 @@ Actividades:
 * Educación
 * Crisis sanitaria
 * Red de oficios
-
+* NO + PSU
+* Libertad de lxs presxs politicxs de la revuelta 
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
@@ -73,9 +74,9 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* NO + PSU
+
 * Futbol sin violencia
-* Libertad de lxs presxs politicxs de la revuelta 
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
@@ -98,7 +99,7 @@ Actividades:
 
 >
 
-t---
+---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
 

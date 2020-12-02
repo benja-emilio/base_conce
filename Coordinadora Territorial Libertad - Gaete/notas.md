@@ -47,7 +47,6 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 
 * Protección de los DD.HH
 
-
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)

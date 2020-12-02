@@ -27,8 +27,7 @@
 
 ---
 
-* **Actividad:** Los eventos los realizan con alta frecuencia dentro de la plaza Condell, tanto en el mes de Noviembre como en Diciembre. El mes de Enero se evidencia un pequeño reflujo que se hace mas presente entre los mes de Febrero y Marzo. 
-
+* **Actividad:** Continua desde noviembre del 2019. 
 * Primera Publicación IG 3 de nov 2019
 
 ---
@@ -36,7 +35,7 @@
 
 Publicaciones:
 
-Actividades:
+Actividades: Los eventos los realizan con alta frecuencia dentro de la plaza Condell, tanto en el mes de Noviembre como en Diciembre. El mes de Enero se evidencia un pequeño reflujo que se hace mas presente entre los mes de Febrero y Marzo. 
 
 ---
 ### Ubicación

@@ -47,6 +47,10 @@ Actividades: Las actividades son principalmente en diciembre del 2019, ya que de
 
 * Crisis sanitaria 
 * Red de abastecimiento 
+* Protección medioambiental
+* Red de oficios
+* Feminismo
+* Conflicto Mapuche
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
