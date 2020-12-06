@@ -79,6 +79,9 @@ Actividades:
 
 **Iconos:**
 
+![ima](96289989_235238104472358_6907909474541133724_n.jpg)
+
+
 **Banderas:**
 
 **Diseño estético:**
@@ -92,7 +95,12 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![ima8](116489152_1239804346365700_8116439574543872810_n.jpg) | ![linkear imagen]() |
+|![ima9](116214380_331024981262753_1225857668539235772_n.jpg) ||
+|![ima10](120132016_2838811573106995_3088169262274434538_n.jpg) ||
+|![ima11](119976084_3289559424432965_1666787756105530681_n.jpg) ||
+|![ima12](120101778_328995521737886_6654924898218345354_n.jpg) ||
+
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -101,8 +109,8 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
-
+| ![ima7](106745525_148083560187441_1685981786524240462_n.jpg)| ![imagen](106292260_316000209409704_887082948379680762_n.jpg) |
+|![ima5](106369514_896204610875464_9135869207346445289_n.jpg) ||
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

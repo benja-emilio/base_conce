@@ -86,7 +86,11 @@ Actividades: De forma semanal desde el mes de Febrero y Marzo, sin embargo, exis
 
 **Iconos:**
 
+![ima3](89469318_1470148276486968_4350571159668822883_n.jpg)
+
 **Banderas:**
+
+![ima2](87832814_202020307570936_7092027913626252537_n.jpg)
 
 **Diseño estético:**
 
@@ -99,7 +103,15 @@ Actividades: De forma semanal desde el mes de Febrero y Marzo, sin embargo, exis
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![ima](87578406_861243774377750_3284057379549284588_n.jpg) | ![linkear imagen](91102635_653978442033842_1023384201127605522_n.jpg) |
+|![ima9](93053781_548407692762550_7850257639984116550_n.jpg )|![ima15](110912478_1425121757689255_677146021997319446_n.jpg) |
+|![ima10](92948786_518759718818993_8775957033851145534_n.jpg) ||
+|![ima11](92952115_663009407849901_2041317579918025758_n.jpg)|
+|![ima12](93599190_232998571283655_7564578561743770953_n.jpg)|
+|![ima13](116220260_1672227099608965_7694516335643703087_n.jpg) ||
+|![](119683542_177487257219763_5172812706816646305_n.jpg) |![](119603109_4918654378148337_1672186089035561856_n.jpg)|
+|![](119638994_1194868437563940_3644228633204311923_n.jpg) ||
+|![](122499559_1092190737865678_1037182774304484489_n.jpg)
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -108,7 +120,8 @@ Actividades: De forma semanal desde el mes de Febrero y Marzo, sin embargo, exis
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![ima3](89715397_138734317673874_5918779311343483369_n.jpg) | ![imagen]() |
+
 
 
 ---

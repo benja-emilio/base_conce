@@ -115,6 +115,8 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 **Banderas:**
 
+![ima5](116703293_146777467088858_817208739391714505_n.jpg)
+
 **Diseño estético:**
 
 > 

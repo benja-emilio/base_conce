@@ -75,7 +75,12 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 
 **Iconos:**
 
+![ima](100471838_585614042086121_6082416575069260009_n.jpg)
+
 **Banderas:**
+
+![ima](73111365_1237080739817530_196569150375651262_n.jpg)
+
 
 **Diseño estético:**
 
@@ -97,7 +102,8 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|![ima3](110328795_882322152290869_6897663518906960578_n.jpg) | ![imagen]() |
+|![ima4](112018115_275602247074753_3148831256489557952_n.jpg) | |
 
 
 ---

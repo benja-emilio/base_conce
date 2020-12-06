@@ -91,10 +91,8 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 
 **Iconos:**
 
-* Estrella de 5 puntas 
 ![ima](93828496_541224843469272_1146893204418041516_n.jpg)
-* Cacerola 
-* Puño en alto  
+![ima2](93313901_218152932841481_2595893216779238440_n.jpg)
 
 **Banderas:**
 

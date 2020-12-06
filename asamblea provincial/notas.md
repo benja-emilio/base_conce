@@ -95,11 +95,6 @@ Actividades: Mensual
 
 **iconos:**
 
-* Puño en alto
-* Perro Matapaco
-* Estrella de 5 punto roja
-* Cacerola
-
 ![imagen](98164283_1156853774657021_3104278595968391525_n.jpg)
 ![imagen2](74607436_2624948354229656_6154249013128501554_n.jpg)
 
@@ -118,7 +113,7 @@ Actividades: Mensual
 
 | Declaraciones | infografía | 
 |---|---|
-|![imagen](90895180_548967112405841_2140128388352388651_n.jpg) | ![linkear imagen]() |
+|![imagen](90895180_548967112405841_2140128388352388651_n.jpg) |  |
 |![imagen2](91127262_206810050610704_2852542118094140175_n.jpg) ||
 |![imagen3](91104303_2838297132932728_4307255558905226512_n.jpg) ||
 
@@ -128,7 +123,7 @@ Actividades: Mensual
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen](82309515_485206559070247_3718469274458880797_n.jpg) |
+|| ![imagen](82309515_485206559070247_3718469274458880797_n.jpg) |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

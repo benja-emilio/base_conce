@@ -54,6 +54,9 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+![ima4](123483960_823934461721750_6119308126367968338_n.jpg)
+![Ima5](123271538_678228503115680_4384749439907959028_n.jpg)
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -80,6 +83,11 @@ Actividades:
 
 **Iconos:**
 
+![ima](117970347_320481939006642_2964513062230276913_n.jpg)
+![ima2](121667649_350534082846789_4046605041138952961_n.jpg)
+![ima3](121688324_196587698539342_6728712701809891380_n.jpg)
+![ima4](121698311_991579374679531_4302950630220874782_n.jpg)
+
 **Banderas:**
 
 **Diseño estético:**
@@ -102,7 +110,7 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](120539997_821053315371348_6409746013948224358_n.jpg) |
 
 
 ---

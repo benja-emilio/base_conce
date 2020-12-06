@@ -58,6 +58,8 @@ Actividades: Múltiples actividades en el mes de noviembre y diciembre. Es evide
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+![ima](75279227_116210909821442_8230342878958714880_n.jpg)
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -87,8 +89,7 @@ Actividades: Múltiples actividades en el mes de noviembre y diciembre. Es evide
 
 **Iconos:**
 
-* Chilena 
-* Mapuche (tricolor)
+![ima5](81044231_171180784125817_4444719651479975736_n.jpg)
 
 **Banderas:**
 
