@@ -34,9 +34,9 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: 
+Publicaciones: Las publicaciones son muy frecuentes en el mes de noviembre, luego en el mes de febrero existe una baja considerable. Se retoma cierta continuidad después de marzo hasta septiembre, para ir decayendo hasta la actualidad. 
 
-Actividades:
+Actividades: Se realizan múltiples actividades al principio, para luego del mes de marzo hacer de manera mensual 
 
 ---
 ### Ubicación
@@ -83,6 +83,8 @@ Actividades:
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+No se logra identificar representantes, aunque si existe una participación asambleísta y abierta para la comunidad de tome en espacios públicos. 
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

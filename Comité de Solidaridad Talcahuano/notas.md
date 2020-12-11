@@ -17,7 +17,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difundir y coordinar actividades |Difundir y coordinar actividades|No tiene |No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -26,14 +26,14 @@
 
 ---
 
-* **Actividad:**
+* **Actividad:** inactiva desde el mes de julio 
 
 * Primera Publicación IG 15 de Junio 
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: solo alcanza a tener 4 publicaciones. 
 
 Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 
@@ -51,6 +51,8 @@ Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+> Solo se logra desprender la solidaridad barrial en pandemia. 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contrainformacion, emplazamiento a autoridades etc.)
@@ -62,9 +64,13 @@ Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
+> Solidaridad barrial 
+
 ---
 ### Tipo de organizacion interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra indentificar estructura organizativa
 
 ---
 ### Describir los temas / imagenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -83,7 +89,7 @@ Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> Nada encontrado
 
 | Declaraciones | infografía | 
 |---|---|
@@ -92,7 +98,7 @@ Actividades: La actividad en la pagina va desde el mes de junio a julio del 2020
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> Nada encontrado
 
 | Declaraciones | infografía | 
 |---|---|

@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades. Difusión de información y afiches. Ademas de registrar el actuar de carabineros en el sector.|Coordinación y difusión de actividades. Difusión de información y afiches|No tiene|No Encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -47,7 +47,6 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 * Feminismo
 * Protección medioambiental 
- 
 * Protección de los DD.HH 
 * Crisis sanitaria 
 * Recuperación de la memoria
@@ -64,6 +63,11 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 * Anticapitalista 
 * Antipatriarcal 
 * Multiculturalidad
+* No TTP 11
+* No mas zonas de sacrificio 
+* No mas AFP
+* Aborto libre seguro y gratuito
+* No mas SENAME 
 
 ![imagen](74902090_145201460125966_1995999905347187170_n.jpg)
 ![imagen](74538729_444898832817091_5699386129956751928_n.jpg)
@@ -95,15 +99,13 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* No TTP 11
-* No + zonas de sacrificio 
-* No + AFP
-* Aborto libre seguro y gratuito
-* No + SENAME 
+> Apoyo mutuo y solidaridad barrial. Junto al apoyo de la economía local
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra identificar representantes, aunque si existe una participación en las diferentes actividades que levanta la organización.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -112,6 +114,7 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 ![imagen](80051550_2525809374374415_8458694723561242406_n.jpg)
 ![imagen2](89290365_2281998552093686_479036287485254355_n.jpg)
+![ima4](109251690_2565377643773264_7368707113098972493_n.jpg)
 
 **Banderas:**
 
@@ -135,7 +138,8 @@ Actividades: 2 a 3 Mensuales hasta marzo. Luego de la crisis sanitaria se reduce
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
-|![]() | |
+|![ima6](121729028_472113803763151_2120762239004015030_n.jpg) | ![imagen](116364513_185985179554735_1514326271620540854_n.jpg) |
+|![ima7](122025113_633585970660801_1334936701736221135_n.jpg) | |
+|![ima](122025113_633585970660801_1334936701736221135_n.jpg)
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

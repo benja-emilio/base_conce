@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades|Coordinación y difusión de actividades, ademas de información del sector|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,15 +27,15 @@
 
 ---
 
-* **Actividad:** continua desde Noviembre. Con un reflujo en febrero. 
+* **Actividad:** continua desde Noviembre.  
 * Primera Publicación IG 3 de Nov 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: bastante publicaciones entre noviembre y diciembre, hubo un reflujo en enero y febrero.
 
-Actividades:
+Actividades: Existen múltiples actividades entre noviembre y diciembre. Luego de Marzo existen bastante actividades dentro del barrio. 
 
 ---
 ### Ubicación
@@ -57,6 +57,10 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* Una vida libre de violencia institucional y machista
+* Tener un medio ambiente libre de contaminación 
+* Fortalecimiento del poder popular 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contrainformacion, emplazamiento a autoridades etc.)
@@ -77,11 +81,13 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* No + AFP
+> Conciencia, protección y limpieza de áreas verdes, ademas de solidaridad barrial y apoyo a la economía local. 
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra identificar representantes, aunque si existe una participación asambleísta, haciendo frecuentes llamados a participar en la asamblea de forma cotidiana
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

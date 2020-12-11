@@ -20,7 +20,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades. Junto con entregar información del sector y también hacer denuncias publicas de las condiciones de abandono estatal|Coordinación y difusión de actividades. Junto con entregar información del sector y también hacer denuncias publicas de las condiciones de abandono estatal|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -57,6 +57,9 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
+* Contra el pacto político por la paz 
+* Rechazo a la ampliación del puente ferroviario y túnel del cerro Chepe 
+
 ---
 ### ¿Que se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contra información, emplazamiento a autoridades etc.)
@@ -80,11 +83,13 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* Contra el pacto político por la paz 
-* Ampliación del puente ferroviario y túnel del cerro Chepe 
+> Desarrollo de diferentes instancias de trabajo colectivo y solidario. Desde la educación, con una escuela popular, hasta el levantamiento de información 
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra identificar representantes, aunque si existe una participación en las diferentes actividades que levanta la organización
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -93,10 +98,11 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 
 ![ima](93828496_541224843469272_1146893204418041516_n.jpg)
 ![ima2](93313901_218152932841481_2595893216779238440_n.jpg)
+![ima15](120856275_195014818671031_8454314707702594337_n.jpg)
 
 **Banderas:**
 
-* Mapuche (tricolor)
+![ima17](74634295_456546168310711_6941581830727415118_n.jpg)
 
 **Diseño estético:**
 
@@ -109,7 +115,7 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![ima10](80075117_495030497886825_6072270829383072224_n.jpg) | ![linkear imagen]() |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -122,3 +128,8 @@ Actividades: de manera mensual. Luego de la crisis sanitaria semanalmente.
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+* Recolección de levantamiento de información del territorio.
+![ima13](93228456_219778082675100_422197310467405554_n.jpg)
+![ima11](93110491_551948632122630_894257910235914691_n.jpg)
+![ima12](93136585_2198344243642066_6385781781741740518_n.jpg)

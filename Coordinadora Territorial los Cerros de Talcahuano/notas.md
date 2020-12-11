@@ -34,13 +34,13 @@
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: mensualmente hasta 18 de Oct 2019, luego es casi a diario
+Publicaciones: mensualmente hasta 18 de Oct 2019, luego es casi a diario.
 
 Actividades:
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: 
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -60,6 +60,8 @@ Actividades:
 #### (El horizonte hacia el cual se quiere avanzar.)
 
 * Renuncia del presidente Piñera  
+
+![ima20](74623977_485153145539484_6769616263788826160_n.jpg)
 
 ---
 ### ¿Que se hace?
@@ -83,11 +85,13 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-
+>Trabajo de fortalecimiento en el tejido social de las comunidades de los cerros a través de conversatorios populares.
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+>No se logra identificar representantes, sin embargo, se logra identificar la participación de múltiples instancias de discusión abierta.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

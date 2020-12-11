@@ -87,6 +87,8 @@ Actividades: Multiples marchas y con bastante frecuencia entre los meses de octu
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
 
+>No se logra identificar representantes, sin embargo, se logra identificar la participación de múltiples instancias de discusión abierta
+
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 

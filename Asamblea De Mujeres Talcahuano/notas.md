@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difusión de información y comunicados, ademas de coordinar y difundir sus actividades|Difusión de información a nivel regional y local|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -33,9 +33,9 @@
 
 ### Frecuencia de publicación.
 
-Publicaciones:
+Publicaciones: Son bastante frecuentes a lo largo del tiempo, exceptuando el mes de febrero.  
 
-Actividades:
+Actividades: Las actividades son bastante frecuentes en el mes de diciembre y enero, no hay en febrero, sin embargo, marzo es bastante activo, luego ya con una frecuencia mas cotidiana el resto del tiempo. 
 
 ---
 ### Ubicación
@@ -83,6 +83,8 @@ Actividades:
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
+
+* Sororidad entre mujeres y disidencias, ademas del 
 
 ---
 ### Tipo de organización interna.

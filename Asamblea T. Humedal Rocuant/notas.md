@@ -27,16 +27,16 @@
 
 ---
 
-* **Actividad:**  
+* **Actividad:** Continua desde noviembre del 2019
 
 * Primera publicación IG 4 de Nov 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: Casi a diario
+Publicaciones: Tienen una frecuencia muy alta de publicaciones por mes, incluso en el mes de febrero. 
 
-Actividades:
+Actividades: Bastantes activos para realizar actividades incluso de manera online en tiempos de pandemia. 
 
 ---
 ### Ubicación
@@ -56,7 +56,7 @@ Actividades:
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
 
-> Un ambiente libre de contaminación y cuidado por el medioambiente. 
+> Un ambiente libre de contaminación y cuidado por el medioambiente. Visión sustentable, patrimonial, cultural e histórica.
 
 ---
 ### ¿Que se hace?
@@ -80,11 +80,13 @@ Actividades:
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* Conciencia por los humedales y areas verdes de Talcahuano. 
+> Conciencia por los humedales y áreas verdes de Talcahuano. Crear un medio ambiente libre de contaminación.
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra identificar representantes, sin embargo, se logra identificar la participación de múltiples instancias de discusión abierta.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -92,6 +94,7 @@ Actividades:
 **Iconos:**
 
 ![ima2](92667045_1643318775806520_334874952903211679_n.jpg)
+![ima4](73685208_126135178820724_1392113759195538578_n.jpg)
 
 **Banderas:**
 
@@ -119,9 +122,11 @@ Actividades:
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
 
+> Principalmente se publican videos que relatan una critica sobre la violación de los DD.HH
+
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
+|Anotar los comunicados | ![imagen](110097598_120364006416737_8520634038440700032_n.jpg) |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

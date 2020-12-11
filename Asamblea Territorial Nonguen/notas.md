@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades. Junto con entregar información del sector sobre los incendios forestales|Coordinación y difusión de actividades|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,7 +27,7 @@
 
 ---
 
-* **Actividad:**  
+* **Actividad:** Continua hasta el mes de Agosto del 2020 
 
 * Primera Publicación IG 13 de Nov 2019 
 
@@ -57,6 +57,10 @@ Actividades:
 
 * Anticapitalismo 
 * Fin al modelo forestal 
+* No mas zonas de sacrificio 
+* Huelga feminista 
+* La protesta no es delito 
+* Fuera Forestales 
 
 ---
 ### ¿Que se hace?
@@ -75,20 +79,17 @@ Actividades:
 * Punto de acopio 
 * Cacerolazo 
 
-
 ---
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* No + zonas de sacrificio 
-* Huelga feminista 
-* No + presxs por luchar - la protesta no es delito 
-* Fuera Forestales 
+
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
 
+> No se logra identificar representantes, aunque si existe una participación en las diferentes actividades que levanta la organización
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -96,18 +97,35 @@ Actividades:
 
 **Iconos:**
 
-* Cacerola 
-* Estrella de 8 puntas (Flor del canelo)
-* Puño arriba 
+![ima](101985599_257587892247061_5337108274444229849_n.jpg)
+![ima2](89297960_818496295296902_5534646249256068082_n.jpg)
 
 **Banderas:**
 
-* Mapuche (tricolor)
-* Mapuche (Azul con estrella blanca)
+![ima4](72848503_146384656701901_7909328651305726180_n.jpg)
 
 **Diseño estético:**
 
 > En la estética se presenta principalmente comunidades compartiendo diferentes espacios sociales. Desde una protesta hasta compartir una comida. Se guía mas por entregar la información a través de videos. 
+
+---
+### Percepciones que se tiene del Estado
+#### (Aparato burocrático)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|![ima3](81091656_527416244539550_5652915704428121270_n.jpg) | ![linkear imagen]() |
+|![ima4](89389201_652976588608184_29857800712481794_n.jpg)
+
+---
+### Percepciones que se tiene de las Fuerzas de Orden
+#### (Aparato represivo)
+> resumen de lo encontrado
+
+| Declaraciones | infografía | 
+|---|---|
+|Anotar los comunicados | ![imagen]() |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.

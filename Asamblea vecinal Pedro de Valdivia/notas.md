@@ -20,7 +20,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Coordinación y difusión de actividades|Difusión de información a nivel local y regional, ademas de difundir actividades de otras organizaciones|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -29,7 +29,7 @@
 
 ---
 
-* **Actividad:**  
+* **Actividad:** Inactivo desde agosto del 2020. 
 
 * Primera Publicación IG 7 de Nov 2019 
   
@@ -44,7 +44,7 @@ Actividades: Múltiples actividades en el mes de noviembre y diciembre. Es evide
 
 ---
 ### Ubicación
-* Sector de la comuna/ciudad:
+* Sector de la comuna/ciudad: Comuna de Concepción, población de Pedro de Valdivía Bajo
 
 ---
 ### Describir temas de interés y/o trabajo
@@ -76,13 +76,13 @@ Actividades: Múltiples actividades en el mes de noviembre y diciembre. Es evide
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
-* Renuncia Piñera 
+> Apoyo mutuo y solidaridad barrial. Junto a tener una vida libre de violencia machista. 
 
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
 
-* Asambleísmo horizontal y abierto. 
+> No se logra identificar representantes, aunque si existe una participación en las diferentes actividades que levanta la organización, y llamados a multiples asambleas abiertas.
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -95,21 +95,21 @@ Actividades: Múltiples actividades en el mes de noviembre y diciembre. Es evide
 
 **Diseño estético:**
 
-> 
+> Se intenta buscar un diseño estetico propio, pero no se logra consolidar antes de que se vuelva un perfil inactivo.
 
 ---
 ### Percepciones que se tiene del Estado
 #### (Aparato burocrático)
-> resumen de lo encontrado
+> Ademas de la imagen de protesta, se encuentran una serie de videos donde se protesta afuera de SERVIU regional. 
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|Anotar los comunicados | ![linkear imagen](75419809_189768308846819_2335427302085133523_n.jpg) |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> No se ha encontrado material significante
 
 | Declaraciones | infografía | 
 |---|---|

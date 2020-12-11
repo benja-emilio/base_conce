@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0| 0|
+|Difusión de información y afiches. Ademas de registrar el actuar de carabineros en el sector|0|0| 0|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -86,6 +86,8 @@ Actividades:
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra identificar representantes, aunque si existe una participación asambleísta, haciendo frecuentes llamados a participar en la asamblea de forma cotidiana
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.

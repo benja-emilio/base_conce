@@ -1,4 +1,4 @@
-#### FOLIO: CON02
+#### FOLIO: CUR02
 #  Asamblea Ambiental del Biobío
 
 [instagram](https://www.instagram.com/asambleaambientalbiobio/)
@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|Difusión de contenido y actividades|0|0| 0|
+|Difusión de contenido y actividades|Difusión de información a nivel regional sobre conflicto ambiental|No tiene|No encontrado|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -27,16 +27,16 @@
 
 ---
 
-* **Actividad:**   
+* **Actividad:** Continua 
 
 * Primera Publicación IG 20 de Nov 2019
 
 ---
 ### Frecuencia de publicación.
 
-Publicaciones: semanal
+Publicaciones: son frecuentes en publicar, en especial sobre actividades que se realizaran dentro de la región. Ademas, publican sobre la flora y fauna local. 
 
-Actividades: mensual  
+Actividades: Tienen actividades regulares cada mes, en especial sobre formación en conflictos ambientales de la región.     
 
 ---
 ### Ubicación
@@ -49,7 +49,6 @@ Actividades: mensual
 * Urbanización y problemática habitacional
 * Plan regulador
 
-
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
@@ -58,7 +57,7 @@ Actividades: mensual
 ![imagen 2](72209648_744226262747321_1804897891219566945_n.jpg)
 ![imagen 3](71575600_195570111565146_3015318635134862958_n.jpg)
 ![imagen 4](74879309_107673510566786_977897615353001422_n.jpg)
-
+![ima24](95290920_2368989446733490_8640180290480722394_n.jpg)
 ---
 ### ¿Qué se hace?
 #### (Manifestaciones, marchas, intervenciones, actividades culturales, conversatorios, intercambio de saberes, actividades solidarias o de apoyo mutuo, abastecimiento, contrainformacion, emplazamiento a autoridades etc.)
@@ -77,14 +76,20 @@ Actividades: mensual
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
+El trabajo esta destinado principalmente a estudiar los conflictos ambientales de la región. Como también instar a la comunidad a aprender sobre flora y fauna local.  
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+No se logra identificar representantes, sin embargo, se logra identificar la participación de múltiples instancias de discusión abierta, haciendo frecuentes llamados a participar en la asamblea de forma cotidiana
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
 
 **Iconos:**
+
+![ima23](94592459_514393802566401_1611614482359514422_n.jpg)
 
 **Banderas:**
 

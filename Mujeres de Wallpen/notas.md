@@ -1,4 +1,4 @@
-#### FOLIO: WAL5
+#### FOLIO: WAL4
 # Mujeres de Wallpen 
 
 [instagram](https://www.instagram.com/mujereswallpeninas/)
@@ -89,7 +89,14 @@ Actividades:
 
 **Iconos:**
 
+![ima](73313397_248626429444723_7797497425516314690_n.jpg)
+![ima2](75371283_402362474004607_5870050228798538698_n.jpg)
+![ima3](92962277_672056353552453_7183926635968794052_n.jpg)
+![ima5](117819250_770973753731360_6241667964006128752_n.jpg)
+
 **Banderas:**
+
+![ima4](105966057_871658679995733_7973495903736235902_n.jpg)
 
 **Diseño estético:**
 
@@ -102,7 +109,10 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|![ima4](95252365_556442901913626_5452118882608329953_n.jpg) | ![linkear imagen](94689885_2888420571195439_8101638103404413174_n.jpg) |
+| |![ima5](95945475_280193976480132_9204159779059631936_n.jpg) |
+| |![ima6](120926364_359482511921389_4092465283688693433_n.jpg) |
+
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
@@ -111,8 +121,11 @@ Actividades:
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![imagen]() |
-
+|Anotar los comunicados | ![imagen](80726172_480428822522215_7752664316966622122_n.jpg) |
+| |![ima7](122501305_355021359123703_1040067389802050504_n.jpg) |
 
 ---
 ### Incorporar aca notas, citas textuales, links, etc. extra a los ya incorporados, que sean de interés para comprender tanto la forma como los contenidos asociados a la organización.
+
+![ima8](123611452_728429218026096_5978721512811823472_n.jpg)
+![ima9](123625692_696191371001030_5469233467962540617_n.jpg)

@@ -18,7 +18,7 @@
 #### ¿Para qué se utiliza la red social?
 | Instagram | Facebook | Twitter | Otra 
 |---|---|---|---|
-|0|0|0|0|
+|Difundir y coordinar actividades. Transparentar de gastos y finanzas. |Difundir y coordinar actividades. Difundir información de la comuna y la región|No tiene|No encontrada|
 
 ### **Instagram**
 | seguidores | seguidos | publicaciones | hashtag |
@@ -46,10 +46,17 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 ### Describir temas de interés y/o trabajo
 
 * Protección de los DD.HH
+* Feminismo
+* Proceso constituyente
+* Crisis sanitaria
 
 ---
 ### Describir la imagen ideal por la cual se trabaja.
 #### (El horizonte hacia el cual se quiere avanzar.)
+
+* Una vida libre de violencia institucional y machista
+* Tener un medio ambiente libre de contaminación 
+![ima4](74687620_966985547021612_6668284871401265426_n.jpg)
 
 ---
 ### ¿Que se hace?
@@ -66,9 +73,13 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 ### Describir y distinguir demandas más reivindicativas de espacios sin relación con lo contencioso o con lo político mas prefigurativo
 #### (lo contencioso; demanda al Estado, a alguna autoridad, privados, etc), (prefigurativo, transformación desde lo cotidiano, etc.).
 
+>Solidaridad barrial y economía local, junto al apoyo mutuo. 
+
 ---
 ### Tipo de organización interna.
 #### (Vocerías, asambleísmo, horizontalidad, etc.; *se entiende que esta dimensión es más difícil de captar vía análisis de redes sociales, pero quizás se puede vislumbrar a través de roles/cargos*)
+
+> No se logra indentificar representantes, aunque si existe una participación asambleista y abierta para la comunidad de Tumbes en espacios publicos. 
 
 ---
 ### Describir los temas / imágenes- iconos / conceptos mas habitualmente presentes en sus publicaciones. Describir cambios/ transformaciones en los contenidos desde Octubre.
@@ -79,6 +90,7 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 
 **Banderas:**
 
+* Afiche con Manuel Rebolledo Navarrete
 ![ima](73111365_1237080739817530_196569150375651262_n.jpg)
 
 
@@ -93,12 +105,12 @@ Actividades: Existen múltiples actividades entre noviembre y diciembre del 2019
 
 | Declaraciones | infografía | 
 |---|---|
-|Anotar los comunicados | ![linkear imagen]() |
+|Anotar los comunicados |  |
 
 ---
 ### Percepciones que se tiene de las Fuerzas de Orden
 #### (Aparato represivo)
-> resumen de lo encontrado
+> Existen registros importantes sobre el caso del asesinato de  Manuel Rebolledo Navarrete por el cuerpo carabineros, poblador de la población Libertad de Talcahuano.
 
 | Declaraciones | infografía | 
 |---|---|
